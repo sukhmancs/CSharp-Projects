@@ -1,0 +1,14 @@
+C:\Users\Norts\source\repos\Lab1\Lab1\bin\Debug\Lab1.exe.config
+C:\Users\Norts\source\repos\Lab1\Lab1\bin\Debug\Lab1.exe
+C:\Users\Norts\source\repos\Lab1\Lab1\bin\Debug\Lab1.pdb
+C:\Users\Norts\source\repos\Lab1\Lab1\obj\Debug\Lab1.csproj.AssemblyReference.cache
+C:\Users\Norts\source\repos\Lab1\Lab1\obj\Debug\Lab1.csproj.CoreCompileInputs.cache
+C:\Users\Norts\source\repos\Lab1\Lab1\obj\Debug\Lab1.exe
+C:\Users\Norts\source\repos\Lab1\Lab1\obj\Debug\Lab1.pdb
+Z:\csharp\Lab1\Lab1\bin\Debug\Lab1.exe.config
+Z:\csharp\Lab1\Lab1\bin\Debug\Lab1.exe
+Z:\csharp\Lab1\Lab1\bin\Debug\Lab1.pdb
+Z:\csharp\Lab1\Lab1\obj\Debug\Lab1.csproj.AssemblyReference.cache
+Z:\csharp\Lab1\Lab1\obj\Debug\Lab1.csproj.CoreCompileInputs.cache
+Z:\csharp\Lab1\Lab1\obj\Debug\Lab1.exe
+Z:\csharp\Lab1\Lab1\obj\Debug\Lab1.pdb

@@ -1,0 +1,8 @@
+C:\Users\Norts\source\repos\Lab3A\Lab3A\bin\Debug\Lab3A.exe.config
+C:\Users\Norts\source\repos\Lab3A\Lab3A\bin\Debug\Lab3A.exe
+C:\Users\Norts\source\repos\Lab3A\Lab3A\bin\Debug\Lab3A.pdb
+C:\Users\Norts\source\repos\Lab3A\Lab3A\obj\Debug\Lab3A.csproj.AssemblyReference.cache
+C:\Users\Norts\source\repos\Lab3A\Lab3A\obj\Debug\Lab3A.csproj.CoreCompileInputs.cache
+C:\Users\Norts\source\repos\Lab3A\Lab3A\obj\Debug\Lab3A.exe
+C:\Users\Norts\source\repos\Lab3A\Lab3A\obj\Debug\Lab3A.pdb
+C:\Users\Norts\source\repos\Lab3A\Lab3A\bin\Debug\Lab3A.cs
