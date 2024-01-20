@@ -16,4 +16,4 @@ Explore the C# files to find utility classes and functions that suit your needs.
    - [C# Programming Guide](https://docs.microsoft.com/en-us/dotnet/csharp/programming-guide/)
 
 📋 **License:**
-   - This repository is licensed under the [MIT License](.license) - see the [LICENSE](.license) file for details.
+   - This repository is licensed under the [MIT License](./LICENSE) - see the [LICENSE](./LICENSE) file for details.
